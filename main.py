@@ -80,7 +80,7 @@ def earlyacces(Año):
     if Año == 9999:
         print ("NO SE TIENE UN REGISTRO PRECISO DE LA LISTA DE ACCESOS TEMPRANOS  PARA EL AÑO INGRESADO, ES UNA RECOPILACION DE LOS POSIBLES ACCESOS TEMPRANOS")
     
-    filtro = df_earlyacces[df_earlyacces['release_year'].astype(str).str.contains(str(Año))] & (df_earlyacces['early_access'] == True)
+    filtro = df_earlyacces[df_earlyacces['release_year'].astype(str).str.contains(str(Año), na=False)] & (df_earlyacces['early_access'] == True)
     df_year_earlyacces = df_earlyacces[filtro]
     
     if df_year_earlyacces.empty:

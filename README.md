@@ -1,13 +1,13 @@
 # PI-MLOPS-STEAM_SoyHenry
 Proyecto Individual MLOPS
  ## Proyecto de Predicción de Precios de Videojuegos en Steam
-Bienvenido al proyecto de predicción de precios de videojuegos en Steam. En este proyecto, hemos desarrollado un modelo de machine learning capaz de predecir el precio de los videojuegos en la plataforma Steam. A lo largo de este README, te proporcionaremos información sobre cómo abordamos el proyecto y cómo puedes utilizar nuestra solución.
+Bienvenido al proyecto de predicción de precios de videojuegos en Steam. En este proyecto, hemos desarrollado un modelo de machine learning capaz de predecir el precio de los videojuegos en la plataforma Steam. A lo largo de este README, te proporcionaremos información sobre cómo aborde el proyecto y cómo puedes utilizar nuestra solución.
 
 Ciclo de Vida del Proyecto
 Nuestro enfoque para este proyecto sigue el ciclo de vida de un proyecto de machine learning, abordando desde la recolección y tratamiento de datos hasta el entrenamiento y mantenimiento del modelo.
 
 Rol a Desarrollar
-En este proyecto, asumimos el rol de Data Scientist en Steam. Nuestra misión es crear un modelo de machine learning que prediga el precio de los videojuegos en la plataforma. Sin embargo, nos enfrentamos a desafíos de datos como datos anidados y falta de procesos automatizados para la actualización de productos.
+En este proyecto, asumí el rol de Data Scientist en la plataforma de Steam.y el objetivo misión es crear un modelo de machine learning que prediga el precio de los videojuegos en la plataforma. Sin embargo, nos enfrentamos a desafíos de datos como datos anidados y falta de procesos automatizados para la actualización de productos.
 
 Propuesta de Trabajo
 A continuación, detallamos los pasos clave que hemos seguido para abordar este proyecto:
